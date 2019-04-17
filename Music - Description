@@ -1,0 +1,5 @@
+Na atividade foi solicitado que fosse lido um banco de dados do tipo sql e verificássemos as tabelas existentes nele.
+Depois, que identificássemos quantos clientes estão cadastrados no banco de dados e o número de países diferentes que moram 
+estes clientes.
+Também foi requerido os 5 países com mais clientes registrados, os países registrados que possuem apenas 6 letras 
+no nome e quais as músicas mais compradas por clientes brasileiros.
