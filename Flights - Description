@@ -1,4 +1,4 @@
-Atividade na qual foi solicitado verificar qual foi o voo que apresentou maior atraso médio na chegada,
+Atividade na qual foi solicitado verificar qual foi o vôo que apresentou maior atraso médio na chegada,
 ignorando aqueles cujo código do aeroporto de partida iniciava com o número 1. Em seguida foi solicitado
 que fosse adicionado ao banco de dados o nome completo de cada aeroporto e também a cidade do aeroporto.
 Para isso, foi necessária a importação do arquivo airports.csv
